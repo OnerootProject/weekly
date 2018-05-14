@@ -18,3 +18,6 @@ Here you can trace the weekly work report of ONEROOT.
 13. [2018-04-06](https://mp.weixin.qq.com/s/r7Xcna3GGVxuV3wEb-gAtQ)
 14. [2018-04-13](https://mp.weixin.qq.com/s/ItBKt3cG1VOzJqOjLRKkZw)
 15. [2018-04-20](https://mp.weixin.qq.com/s/w0y_tXgcF2Ftom1n-vwzoQ)
+16. [2018-04-27](https://mp.weixin.qq.com/s/QhOGyThBjSeV4d9NgjeL8g)
+17. [2018-05-04](https://mp.weixin.qq.com/s/GHP9sug9O2ouadjFVoypLQ)
+18. [2018-05-11](https://mp.weixin.qq.com/s/qfTBnz4XYEsnE4IgBVBgOQ)
