@@ -21,3 +21,5 @@ Here you can trace the weekly work report of ONEROOT.
 16. [2018-04-27](https://mp.weixin.qq.com/s/QhOGyThBjSeV4d9NgjeL8g)
 17. [2018-05-04](https://mp.weixin.qq.com/s/GHP9sug9O2ouadjFVoypLQ)
 18. [2018-05-11](https://mp.weixin.qq.com/s/qfTBnz4XYEsnE4IgBVBgOQ)
+19. [2018-05-18](https://mp.weixin.qq.com/s/D7SlKV34cvY3--9BcJiYmA)
+20. [2018-05-25](https://mp.weixin.qq.com/s/DS_EUypMO7RxQqXDFf2j_w)
